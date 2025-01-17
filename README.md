@@ -35,7 +35,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/amazon-prime-video-dashboard.git
+git clone https://github.com/aravindarav19/Amazon-Prime-Video-Data-Analysis-Dashboard.git
 Explore the dataset (amazon_prime_titles.csv) for additional insights or further analysis.
 Open the Power BI file (Amazon_Prime_Video_Data_Insights.pbix) for a detailed dashboard view.
 Prerequisites
