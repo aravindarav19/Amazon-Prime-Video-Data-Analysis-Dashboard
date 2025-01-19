@@ -4,13 +4,13 @@ This repository contains a dataset from Amazon Prime Video and a Power BI dashbo
 
 Files in This Repository
 
-# amazon_prime_titles.csv
+amazon_prime_titles.csv
 Description: The dataset containing information about Amazon Prime Video titles.
 Content: Includes details such as title name, genre, rating, release year, and more.
 Source: The data was either collected or extracted for the purpose of analysis.
 
 
-# Amazon_Prime_Video_Data_Insights.pbix
+Amazon_Prime_Video_Data_Insights.pbix
 Description: A Power BI dashboard created using the dataset.
 Content: Visualizes insights such as:
 Number of titles by ratings.
